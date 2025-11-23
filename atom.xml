@@ -63,9 +63,9 @@
     <link href="https://ametoyuki098.github.io/test/"/>
     <id>https://ametoyuki098.github.io/test/</id>
     <published>2025-07-12T23:52:52.000Z</published>
-    <updated>2025-11-17T01:42:58.507Z</updated>
+    <updated>2025-11-23T09:50:47.645Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ffmpeg -i input.mp4 output.mp4 <span class="comment"># 这是ffmpeg的基础命令。</span></span><br><span class="line">magick <span class="comment"># 一个强大的命令行图片工具。</span></span><br><span class="line">pkg ins termux-api <span class="comment"># 安装此工具需先安装-termux-api插件，这样才能正常调用手机各类api。</span></span><br></pre></td></tr></table></figure><div class="aplayer"      data-id="1394167216"      data-server="netease"      data-type="song"      data-mutex="true"     data-preload="auto"      data-theme="#3F51B5"></div><div class="aplayer"data-id="003u13tA4SUv1t"data-server="tencent"data-type="song"data-mutex="true"data-autoplay="true"data-preload="auto"data-theme="#3F51B5"></div>]]></content>
+    <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ffmpeg -i input.mp4 output.mp4 <span class="comment"># 这是ffmpeg的基础命令。</span></span><br><span class="line">magick <span class="comment"># 一个强大的命令行图片工具。</span></span><br><span class="line">pkg ins termux-api <span class="comment"># 安装此工具需先安装-termux-api插件，这样才能正常调用手机各类api。</span></span><br></pre></td></tr></table></figure><div class="aplayer"      data-id="1394167216"      data-server="netease"      data-type="song"      data-mutex="true"     data-preload="auto"      data-theme="#3F51B5"></div><div class="aplayer"data-id="003u13tA4SUv1t"data-server="tencent"data-type="song"data-mutex="true"data-preload="auto"data-theme="#3F51B5"></div><div class="aplayer"data-id="000Gb5s20okAGc"data-server="tencent"data-type="song"data-mutex="true"data-autoplay="true"data-preload="auto"data-theme="#3F51B5"></div>]]></content>
     
     
       
