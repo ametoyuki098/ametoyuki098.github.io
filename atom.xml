@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>给X许</title>
+  <icon>https://ametoyuki098.github.io/icon.png</icon>
+  
+  <link href="https://ametoyuki098.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ametoyuki098.github.io/"/>
+  <updated>2026-01-15T02:55:59.027Z</updated>
+  <id>https://ametoyuki098.github.io/</id>
+  
+  <author>
+    <name>geixxu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ametoyuki098.github.io/hello-world/"/>
+    <id>https://ametoyuki098.github.io/hello-world/</id>
+    <published>2026-01-15T02:55:59.027Z</published>
+    <updated>2026-01-15T02:55:59.027Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo搭建笔记（Termux）</title>
+    <link href="https://ametoyuki098.github.io/termux-hexo-guide/"/>
+    <id>https://ametoyuki098.github.io/termux-hexo-guide/</id>
+    <published>2026-01-15T02:38:13.000Z</published>
+    <updated>2026-01-15T02:55:59.027Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;本篇内容记录于安卓移动设备中使用Termux安装、配置Hexo，并实现静态托管与自动化部&lt;br&gt;署的参考示例。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;开始之前，请确保已准备好以下内容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;T</summary>
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://ametoyuki098.github.io/categories/Hexo/"/>
+    
+    
+    <category term="jolin" scheme="https://ametoyuki098.github.io/tags/jolin/"/>
+    
+    <category term="Termux" scheme="https://ametoyuki098.github.io/tags/Termux/"/>
+    
+  </entry>
+  
+</feed>
