@@ -1,10 +1,10 @@
 https://ametoyuki098.github.io/shuoshuo/
 https://ametoyuki098.github.io/tags/
-https://ametoyuki098.github.io/categories/
-https://ametoyuki098.github.io/termux-hexo-guide/
 https://ametoyuki098.github.io/hello-world/
-https://ametoyuki098.github.io/Gallery/
+https://ametoyuki098.github.io/termux-hexo-guide/
 https://ametoyuki098.github.io/Music/
+https://ametoyuki098.github.io/categories/
+https://ametoyuki098.github.io/Gallery/
 https://ametoyuki098.github.io/Gallery/arbook/
 https://ametoyuki098.github.io/Gallery/photos/
 https://ametoyuki098.github.io/Gallery/upsplash/
