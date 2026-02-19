@@ -1,66 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>给X许</title>
-  <icon>https://ametoyuki098.github.io/icon.png</icon>
-  
-  <link href="https://ametoyuki098.github.io/atom.xml" rel="self"/>
-  
-  <link href="https://ametoyuki098.github.io/"/>
-  <updated>2026-01-15T09:10:59.975Z</updated>
-  <id>https://ametoyuki098.github.io/</id>
-  
   <author>
     <name>geixxu</name>
-    
   </author>
-  
   <generator uri="https://hexo.io/">Hexo</generator>
-  
+  <icon>https://ametoyuki098.github.io/icon.png</icon>
+  <id>https://ametoyuki098.github.io/</id>
+  <link href="https://ametoyuki098.github.io/" rel="alternate"/>
+  <link href="https://ametoyuki098.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, geixxu</rights>
+  <title>给X许</title>
+  <updated>2026-02-19T03:17:26.715Z</updated>
   <entry>
-    <title>Hello World</title>
-    <link href="https://ametoyuki098.github.io/hello-world/"/>
+    <author>
+      <name>geixxu</name>
+    </author>
     <id>https://ametoyuki098.github.io/hello-world/</id>
-    <published>2026-01-15T09:10:59.975Z</published>
-    <updated>2026-01-15T09:10:59.975Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can</summary>
-      
-    
-    
-    
-    
+    <link href="https://ametoyuki098.github.io/hello-world/"/>
+    <published>2026-02-19T03:17:26.715Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-02-19T03:17:26.715Z</updated>
   </entry>
-  
   <entry>
-    <title>Hexo搭建笔记（Termux）</title>
-    <link href="https://ametoyuki098.github.io/termux-hexo-guide/"/>
-    <id>https://ametoyuki098.github.io/termux-hexo-guide/</id>
-    <published>2026-01-15T02:38:13.000Z</published>
-    <updated>2026-01-15T09:10:59.975Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;本篇内容记录于安卓移动设备中使用Termux安装、配置Hexo，并实现静态托管与自动化部&lt;br&gt;署的参考示例。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h2&gt;&lt;p&gt;开始之前，请确保已准备好以下内容：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;T</summary>
-      
-    
-    
-    
+    <author>
+      <name>geixxu</name>
+    </author>
     <category term="Hexo" scheme="https://ametoyuki098.github.io/categories/Hexo/"/>
-    
-    
     <category term="jolin" scheme="https://ametoyuki098.github.io/tags/jolin/"/>
-    
     <category term="Termux" scheme="https://ametoyuki098.github.io/tags/Termux/"/>
-    
+    <id>https://ametoyuki098.github.io/termux-hexo-guide/</id>
+    <link href="https://ametoyuki098.github.io/termux-hexo-guide/"/>
+    <published>2026-01-15T02:38:13.000Z</published>
+    <summary>
+      <![CDATA[<blockquote>
+<p>本篇内容记录于安卓移动设备中使用Termux安装、配置Hexo，并实现静态托管与自动化部<br>署的参考示例。</p>
+</blockquote>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p>开始之前，请确保已准备好以下内容：</p>
+<ul>
+<li>T]]>
+    </summary>
+    <title>Hexo搭建笔记（Termux）</title>
+    <updated>2026-02-19T03:17:26.715Z</updated>
   </entry>
-  
 </feed>
