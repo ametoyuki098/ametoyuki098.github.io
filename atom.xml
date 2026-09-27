@@ -10,19 +10,19 @@
   <link href="https://ametoyuki098.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, geixxu</rights>
   <title>给X许</title>
-  <updated>2026-02-19T03:17:26.715Z</updated>
+  <updated>2026-09-27T02:47:48.751Z</updated>
   <entry>
     <author>
       <name>geixxu</name>
     </author>
     <id>https://ametoyuki098.github.io/hello-world/</id>
     <link href="https://ametoyuki098.github.io/hello-world/"/>
-    <published>2026-02-19T03:17:26.715Z</published>
+    <published>2026-09-27T02:47:48.751Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can]]>
     </summary>
     <title>Hello World</title>
-    <updated>2026-02-19T03:17:26.715Z</updated>
+    <updated>2026-09-27T02:47:48.751Z</updated>
   </entry>
   <entry>
     <author>
@@ -43,6 +43,6 @@
 <li>T]]>
     </summary>
     <title>Hexo搭建笔记（Termux）</title>
-    <updated>2026-02-19T03:17:26.715Z</updated>
+    <updated>2026-09-27T02:47:48.751Z</updated>
   </entry>
 </feed>
